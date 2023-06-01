@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Вычисления-18", "Вычисления-16\Вычисления-16.vcxproj", "{5C989704-F185-4FC2-8609-D9900D595555}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Вычисления-18", "Вычисления-18\Вычисления-18.vcxproj", "{5C989704-F185-4FC2-8609-D9900D595555}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Вычисления", "Вычисления", "{474A6225-D8C2-4E32-A1B4-17C262101B75}"
 EndProject
